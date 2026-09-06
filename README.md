@@ -29,8 +29,6 @@
 | **🚀 机场推荐** | [@jichang101](https://github.com/vpnnav/jichang101) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
 | **🤖 AI导航站** | [https://ai.0xnav.com/](https://ai.0xnav.com/) | AI工具集官网| 10000+ AI工具集合，国内外AI工具集导航大全 |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，3块/月 |
-| ⚡️能量闪租⚡️     |       **`TGuXv6H1s84cmQZk7akvWHC6P789999999`**      | 🟩1笔USDT转帐能量: 3TRX </br> 🟨2笔USDT转帐能量: 6TRX |
-| ⚡️TRX闪兑     |       **`TY4etzSftahyH5DYDMq5kDuPs93VVVVVVV`**      | TRX-USDT24小时自动兑换，1U起兑 |
 | 币圈必备学习资料   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)，币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)  |
 | **欧易交易所**    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   | 邀请码：**50253981**，欧易交易所(减免30%手续费)OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
 | **币安交易所**    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免20%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
@@ -43,17 +41,14 @@
 | **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/xiunvyewu)|
 | 搜索群①   | [sousou20w](https://t.me/sousou20w)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
 | 搜索群②   | [@jiso5173](https://t.me/jiso5173)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
-| 搜索群③   | [@jisoubar](https://t.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
-| 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
 | 素材大师 | [@sucaidashi](https://t.me/sucaidashi) | 精修的朋友圈，出门在外身份都是自己给的 |
 | 电报搜索群   | [@seseccavsese](https://t.me/seseccavsese)             | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
-| 👚AI换装机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=NJOTH8D6MF7PYIL8)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
 | **科技第一线** | [@kejidiyixian](https://t.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
 |淘宝好物分享频道|[@taobaohaowu](https://t.me/taobaohaowu)|每天分享淘宝精选折扣好物，[@折扣机器人](https://t.me/haowufenxiangbot)发送商品链接自动返回折扣后链接|
 | 群组频道僵尸粉 | [https://faka.tg10000.com/](https://faka.tg10000.com/) | 会掉落1000人/¥10，永久不掉落1000人/¥25，[@okpayfakabot](https://t.me/okpayfakabot)对接okpay，无任何手续费|
-| **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)，[@okpayfakabot](https://t.me/okpayfakabot)对接okpay，无任何手续费|
+| **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺|
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障。热销19元192G流量卡，频道:[@tgsim172](https://t.me/tgsim172) |
 |💰电报Telegram如何赚钱|[telegram-money-making](https://github.com/itgoyo/telegram-money-making)|Telegram 副业指南：如何利用频道、机器人和跨境信息差获得收入|
 | **英语口语学习** | [https://www.talk915.com](https://www.talk915.com/t/jE326zzq) | 领取在线外教一对一试听课程 |
@@ -74,11 +69,7 @@
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 |不用赴港申请Wise香港账户 | [https://wise.com](https://wise.com/invite/dic/xfp7e3v) |可选择免费 Wise 借记卡或免手续费汇款机会 |
 
-
-### 交易所提币或者是购买USDT、币圈撸空投
-**❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
-
-**❗❗️️❗别用乱用网上的钱包接收款项，只有交易所里面的钱才不存在黑钱黑U❗️❗️❗️**
+### 交易所
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免20%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
@@ -88,34 +79,6 @@
 | Gate.io    |   [https://www.gatesee.com](https://www.gatenode.xyz/share/USDTOKOK)   |     Gate.io交易所(减免20%手续费)邀请码：**USDTOKOK**|
 | 火币    |   [https://www.htx.com](https://www.htx.com.am/invite/zh-cn/1f?invite_code=xpi6a223)   |      火币交易所(减免30%手续费)邀请码：**xpi6a223**|
 | 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免20%手续费)邀请码：**wIE7fPvG**|
-
-![](https://imgur.com/MlRDjeU.png)
-
-### 机器人搭建有需要联系:[@tgxiunv](https://t.me/tgxiunv)
-| 项目                                       | 说明                                              | 价格            |
-| ------------------------------------------ | ------------------------------------------------- | --------------- |
-|接机器人定制开发|自行联系：[@tgxiunv](https://t.me/tgxiunv)|只接小功能机器人项目开发，大型项目勿扰|
-| 修女频道搬运                                | 搬运整个频道10U,自行联系[@tgxiunv](https://t.me/tgxiunv) | 10U   |
-| 自动按钮机器人                                | 使用教程:[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs) [@xiunvanniu_bot](https://t.me/xiunvanniu_bot)      |    50U          |
-|消息提取机器人(破解私密频道无法下载保存转发神器)                                | 提供源码及搭建服务         | 50U             |
-| 免费频道搬运机器人   |免费机器人[@xnby08bot](https://t.me/xnby08bot)支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)|搭建机器人可联系：[@tgxiunv](https://t.me/tgxiunv) 100U [通知群](https://t.me/xiunvyewu)|
-| **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听无数量限制 👉 [使用教程](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 搭建机器人可联系：[@tgxiunv](https://t.me/tgxiunv) 100U [通知群](https://t.me/xiunvyewu)|
-| **频道监听转发机器人加强版**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，同时支持搬运，AI去广告、AI加标签、AI改写等功能 | 200U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/xiunvyewu) |
-| **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话 👉 [使用教程](https://www.youtube.com/watch?v=26233nZyAcU)| 搭建机器人可联系：[@tgxiunv](https://t.me/tgxiunv) 200U [通知群](https://t.me/xiunvyewu)|
-| tdl                          | 电报下载神器搭建,自行联系[@tgxiunv](https://t.me/tgxiunv)，使用教程:[视频教程](https://www.youtube.com/watch?v=h_r1_I6Busk)| 50U或¥300   |
-| 直播录制软件      | [软件安装教程](https://www.bilibili.com/video/BV1XqHkzCEpN/) | 可实现自动录制全网直播，自动投稿到B站上,不会可以找我帮搭建¥300           |
-| 波场靓号生成器(8a、9a、10a等豹子顺子靓号)                         | 电脑有显卡直接跑，跑出来的速度看显卡 | 100U            |
-| 自动转发频道机器人(涨粉神器)                          | 自动监听搬运别人频道内容,提供源码及搭建服务[@tgxiunv](https://t.me/tgxiunv) | 100U            |
-| 自动转发频道机器人（文末自定义文案）       | 自动搬运别人频道内容并可自定义文案，效果查看：[@alidriver4k](https://t.me/alidriver4k) | 140U            |
-| 频道导航网站      | 效果查看：[tg10000.com](https://tg10000.com) | ¥200    [搭建教程](https://www.bilibili.com/video/BV13b5izgE28)            |
-| 独角数卡网站      | 效果查看：[shop.tg10000.com](https://shop.tg10000.com) | 单网站:¥150，网站+对接支付:¥300或40U，请准备服务器和域名           |
-| 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 |[官网地址](https://qunfaqi.github.io),使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买: [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)   | ¥199         |
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://i.imgur.com/9E65XRH.png" alt="彩虹群发器破解版免费" style="width: 30%;"/>
-  <img src="https://i.imgur.com/9MxAREe.png" alt="彩虹群发器破解版" style="width: 30%;"/>
-  <img src="https://i.imgur.com/o32jV8y.png" alt="彩虹群发电报神器" style="width: 30%;"/>
-</div>
-
 
 ## Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
 ![](https://i.imgur.com/Ba6epuD.png)
