@@ -41,17 +41,16 @@
 | **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/xiunvyewu)|
 | 搜索群①   | [sousou20w](https://t.me/sousou20w)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
 | 搜索群②   | [@jiso5173](https://t.me/jiso5173)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
-| 素材大师 | [@sucaidashi](https://t.me/sucaidashi) | 精修的朋友圈，出门在外身份都是自己给的 |
 | 电报搜索群   | [@seseccavsese](https://t.me/seseccavsese)             | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
+| 素材大师 | [@sucaidashi](https://t.me/sucaidashi) | 精修的朋友圈，出门在外身份都是自己给的 |
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
 | **科技第一线** | [@kejidiyixian](https://t.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
 |淘宝好物分享频道|[@taobaohaowu](https://t.me/taobaohaowu)|每天分享淘宝精选折扣好物，[@折扣机器人](https://t.me/haowufenxiangbot)发送商品链接自动返回折扣后链接|
-| 群组频道僵尸粉 | [https://faka.tg10000.com/](https://faka.tg10000.com/) | 会掉落1000人/¥10，永久不掉落1000人/¥25，[@okpayfakabot](https://t.me/okpayfakabot)对接okpay，无任何手续费|
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺|
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障。热销19元192G流量卡，频道:[@tgsim172](https://t.me/tgsim172) |
 |💰电报Telegram如何赚钱|[telegram-money-making](https://github.com/itgoyo/telegram-money-making)|Telegram 副业指南：如何利用频道、机器人和跨境信息差获得收入|
-| **英语口语学习** | [https://www.talk915.com](https://www.talk915.com/t/jE326zzq) | 领取在线外教一对一试听课程 |
+
 
 ### 推广
 | 名字       | 链接                                                                 | 功能描述                                   |
