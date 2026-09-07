@@ -6,13 +6,8 @@
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，全网最全的电报导航，精心筛选，让您轻松玩转Telegram。<br>
   ❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️<br>
  <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://dianbaodaohang.com">https://dianbaodaohang.com</a>  <a>中文讨论群:</a> <a href="https://t.me/tgcn_chat">@tgcn_chat</a><br>
-  ❗️国内用户(包括台湾省)电报名字最好使用<strong>中文</strong>，由于协议号泛滥，<strong>英文和拼音</strong>名字容易被风控封号❗️<br>
   <br>
 </div>
-
-<img src="https://i.imgur.com/ywjcaE6.png" alt="USDT">
-
-### 搜索机器人(❗️一定要使用中文用户名，例如『陈冠希』是中文昵称就送USDT❗️英文名字和字母、拼音等没有收益❗️且容易被官方封号，中文最耐久)
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
@@ -66,7 +61,6 @@
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量 |
 |环球巴士                             | [https://universalbus.cn](https://universalbus.cn/?s=2aKuBEBSZB)          | Netflix、ChatGPT、Gemini、油管、Grok，专属9折优惠码：FANXIAN   |
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
-|不用赴港申请Wise香港账户 | [https://wise.com](https://wise.com/invite/dic/xfp7e3v) |可选择免费 Wise 借记卡或免手续费汇款机会 |
 
 ### 交易所
 | 名字     | 链接 | 功能描述     |
